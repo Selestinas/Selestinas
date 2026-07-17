@@ -2,7 +2,7 @@
 #### My name is Christina and here is my hard way to QA and may be in one day to Python developer:)
 [Linkedin](https://www.linkedin.com/in/kristina-ivanova-72874915a/)
 
-- 🔭 I’m currently working шт DevTeam 
+- 🔭 I’m currently working in DevTeam 
 - 🌱 I’m currently learning Python
 - ⚡ Fun fact: i dont like chewgum
 
